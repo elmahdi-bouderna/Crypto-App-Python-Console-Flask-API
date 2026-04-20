@@ -1,4 +1,4 @@
-# 🔐 Crypto App (Python) — Console + Flask API
+# Crypto App (Python) — Console + Flask API
 
 This project is a Python implementation of the given exercises, replacing:
 
